@@ -1,0 +1,8 @@
+{
+  "name": "pat",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "turbolinks": "^5.2.0"
+  }
+}
